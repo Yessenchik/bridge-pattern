@@ -1,5 +1,3 @@
-package src;
-
 import devices.Device;
 import devices.Tv;
 import devices.Radio;
